@@ -2,6 +2,7 @@
 AI-Powered Smart Music Recommendation System Based on User Emotion with Cold Start Optimization
 EMOTUNE is an intelligent music recommendation system that analyzes user emotions in real time and recommends personalized songs based on mood, listening history, and contextual behavior.
 The system combines Emotion Recognition, Machine Learning, and Hybrid Recommendation Algorithms to improve music discovery and solve the cold start problem for new users and songs.
+
 🚀 Features:
 😊 Real-time Emotion Detection
 🎧 Personalized Music Recommendation
@@ -45,6 +46,7 @@ Genre & mood-based initialization
 Content embeddings
 Popularity-based fallback
 Multi-Armed Bandit exploration
+
 🧠 Algorithms Used
 Emotion Detection Algorithms
 CNN (Convolutional Neural Network)
@@ -62,6 +64,7 @@ Popularity-Based Recommendation
 Context-Aware Recommendation
 Multi-Armed Bandit Algorithm
 Embedding Mapping
+
 📊 Workflow
 User logs into EMOTUNE
 System captures emotion using text/audio/face input
@@ -70,6 +73,7 @@ Recommendation engine generates candidate songs
 Ranking model personalizes the playlist
 User feedback is collected
 Models continuously improve recommendations
+
 📈 Future Enhancements
 Wearable sensor integration
 Real-time adaptive playlists
@@ -77,11 +81,13 @@ Multilingual emotion analysis
 Voice assistant integration
 Reinforcement learning-based recommendation
 Explainable AI recommendations
+
 🔒 Privacy & Security
 User consent-based emotion detection
 Encrypted user data storage
 Secure authentication
 GDPR-compliant data handling
+
 🧪 Testing
 Testing methods used:
 Unit Testing
@@ -89,6 +95,7 @@ Integration Testing
 API Testing
 Model Accuracy Evaluation
 User Experience Testing
+
 📚 Applications
 Music Streaming Platforms
 Mental Wellness Apps
